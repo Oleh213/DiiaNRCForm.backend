@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiiaNRCForm", "DiiaNRCForm\DiiaNRCForm.csproj", "{07FBD3C3-ABC7-4819-A161-9E6AC25E2E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiiaClient.SDK", "DiiaClient.SDK\DiiaClient.SDK.csproj", "{A22BEAAA-4211-4C82-9DCD-05B9E3DE6512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiiaNRCForm.Business", "DiiaNRCForm.Business\DiiaNRCForm.Business.csproj", "{D379B4EE-80FF-4FE1-83E4-CCE402C4C498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiiaNRCForm.DiiaService", "DiiaNRCForm.DiiaService\DiiaNRCForm.DiiaService.csproj", "{FECAEDD3-18C2-4ADA-89D6-D8A1391F3B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiiaNRCForm.Abstractions", "DiiaNRCForm.Abstractions\DiiaNRCForm.Abstractions.csproj", "{5A7BC26B-3C7C-4BE6-BDD3-A288EF192E35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiiaNRCForm.Infrastructure", "DiiaNRCForm.Infrastructure\DiiaNRCForm.Infrastructure.csproj", "{C5530FB7-FFFB-4071-9E15-9D66516425B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiiaClient.CryptoAPI", "DiiaClient.CryptoAPI\DiiaClient.CryptoAPI.csproj", "{074E2D3D-DE5C-4C61-A4CD-B4E3AEF12E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiiaNRCForm.KoboToolboxService", "DiiaNRCForm.KoboToolboxService\DiiaNRCForm.KoboToolboxService.csproj", "{A071469E-9DB2-4958-BCAE-7AB580BE72C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FBD3C3-ABC7-4819-A161-9E6AC25E2E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FBD3C3-ABC7-4819-A161-9E6AC25E2E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FBD3C3-ABC7-4819-A161-9E6AC25E2E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FBD3C3-ABC7-4819-A161-9E6AC25E2E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22BEAAA-4211-4C82-9DCD-05B9E3DE6512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22BEAAA-4211-4C82-9DCD-05B9E3DE6512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22BEAAA-4211-4C82-9DCD-05B9E3DE6512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22BEAAA-4211-4C82-9DCD-05B9E3DE6512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D379B4EE-80FF-4FE1-83E4-CCE402C4C498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D379B4EE-80FF-4FE1-83E4-CCE402C4C498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D379B4EE-80FF-4FE1-83E4-CCE402C4C498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D379B4EE-80FF-4FE1-83E4-CCE402C4C498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FECAEDD3-18C2-4ADA-89D6-D8A1391F3B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECAEDD3-18C2-4ADA-89D6-D8A1391F3B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECAEDD3-18C2-4ADA-89D6-D8A1391F3B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECAEDD3-18C2-4ADA-89D6-D8A1391F3B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7BC26B-3C7C-4BE6-BDD3-A288EF192E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7BC26B-3C7C-4BE6-BDD3-A288EF192E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7BC26B-3C7C-4BE6-BDD3-A288EF192E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7BC26B-3C7C-4BE6-BDD3-A288EF192E35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5530FB7-FFFB-4071-9E15-9D66516425B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5530FB7-FFFB-4071-9E15-9D66516425B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5530FB7-FFFB-4071-9E15-9D66516425B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5530FB7-FFFB-4071-9E15-9D66516425B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074E2D3D-DE5C-4C61-A4CD-B4E3AEF12E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074E2D3D-DE5C-4C61-A4CD-B4E3AEF12E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074E2D3D-DE5C-4C61-A4CD-B4E3AEF12E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074E2D3D-DE5C-4C61-A4CD-B4E3AEF12E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A071469E-9DB2-4958-BCAE-7AB580BE72C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A071469E-9DB2-4958-BCAE-7AB580BE72C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A071469E-9DB2-4958-BCAE-7AB580BE72C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A071469E-9DB2-4958-BCAE-7AB580BE72C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
